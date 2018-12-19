@@ -2,12 +2,12 @@
 require_once ('AfricasTalkingGateway.php');
 
 // Set your app credentials
-$username   = "mwikah";
-$apikey     = "8af0ac854fe4f728d42f02faf290af0dcdd86f483b6163e2c611409e28706f97";
+$username   = "Your_UserName";
+$apikey     = "8af0ac854fe4f7.................................";
 
 
 // Set the numbers you want to send to in international format
-$recipients = "+254706922019, +254706959881, +254791205989";
+$recipients = "+2547069......, +254706...., +2547......";
 
 // Set your message
 $message    = "Mwikah wishes you a merry Christmas and a happy new year";
